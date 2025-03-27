@@ -6,7 +6,7 @@ AI Chat Assistant is an interactive web-based chatbot application designed to si
 
 ---
 
-## Screenshot
+# Screenshot
 
 ## Asked to explain me what is Javascript:-
 ![Screenshot](assets/Screenshot.png)
