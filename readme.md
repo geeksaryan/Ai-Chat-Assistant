@@ -55,22 +55,22 @@ Ai Chat Bot/ ├── index.html # Main HTML file for the application ├──
 
 ## 🚀 How to Run the Project
 
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/your-username/ai-chat-assistant.git
-2. **Navigate to the Project**:
+**1.Clone the Repository:** 
+    ```bash
+    git clone https://github.com/your-username/ai-chat-assistant.git
+**2.Navigate to the Project:**
     cd ai-chat-assistant
-3. **Open the Application**:
+**3.Open the Application:**
     Open the index.html file in any modern web browser.
 
 
-📝 License
+## 📝 License**
 This project is open-source and available under the MIT License.
 
-👨‍💻 About the Developer
-Hi, I'm Aryan Raj, a passionate web developer with a keen interest in building interactive and user-friendly web applications. Feel free to connect with me on LinkedIn or check out my other projects on GitHub.
+## 👨‍💻 About the Developer
+Hi, **I'm Aryan Raj**, a passionate web developer with a keen interest in building interactive and user-friendly web applications. Feel free to connect with me on **LinkedIn(linkedin.com/in/aryan-kumar-220791278)** or check out my other projects on GitHub.
 
-⭐ Acknowledgments
+## ⭐ Acknowledgments
  * Google Generative Language API for powering the AI responses.
  * Poppins Font from Google Fonts for the clean typography.
  * Inspiration from modern chatbot    designs.
