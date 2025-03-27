@@ -1,4 +1,4 @@
-## 🌐 Live Demo:-
+## 🌐 Live Demo:- **https://ai-chat-assistant-phi.vercel.app/**
 
 # AI Chat Assistant
 
